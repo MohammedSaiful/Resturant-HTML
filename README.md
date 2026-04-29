@@ -3,7 +3,7 @@
 
 #  Live Demo
 - View the live version of this project here: 
-| Restaurant    | [Live Demo](https://html-css-resturant-task-4.vercel.app/) | [Code](https://github.com/MohammedSaiful/HTML-CSS-Design-task/tree/main/Task-2.2-resturant) |
+| Restaurant    | [Live Demo](https://html-css-resturant-task-4.vercel.app/)
 
 # Features
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop views using CSS Grid and Flexbox.
